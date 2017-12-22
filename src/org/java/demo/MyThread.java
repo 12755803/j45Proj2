@@ -8,7 +8,7 @@ public class MyThread implements Runnable {
 		MyThread obj = new MyThread();
 		
 		Thread t1 = new Thread(obj);
-		t1.setName("A线程");
+		t1.setName("A线程sssq");
 		
 		
 		Thread t2 = new Thread(obj);

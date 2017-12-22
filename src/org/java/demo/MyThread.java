@@ -12,7 +12,7 @@ public class MyThread implements Runnable {
 		
 		
 		Thread t2 = new Thread(obj);
-		t2.setName("B线程");
+		t2.setName("B1111233线程");
 	
 		t1.start();
 		t2.start();
